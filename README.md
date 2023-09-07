@@ -1,2 +1,2 @@
-# Todos as praticas do curso 
+# Todas as praticas do curso 
  
