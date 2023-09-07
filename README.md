@@ -1,2 +1,2 @@
-# OneBit
- Minhas primeiras praticas
+# Todos as praticas do curso 
+ 
