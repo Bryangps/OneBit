@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+body{
+    background-color: antiquewhite;
+    
+}
+
+.secao{
+    width: 60%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    background-color: azure;
+    padding: 20px 20px 20px 20px;
+    border: 2px solid;
+   
+}
+
+.linha{
+    font-family: 'Libre Franklin',Arial, Helvetica, sans-serif;
+ }  
